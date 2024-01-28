@@ -9,5 +9,5 @@ This is my personal portfolio website. It has 5 components :
                                    "vanilla-test.js".
 4. Contact Me section: Here I have created a form and also connected it with the help of Apps Script extension to a Google Spreadsheet, so any messages you send, I will receive them. I have also added my email, 
                        phone number, github, linkdin and instagram. For the last three I have added hyperlink on the icons itself. I added the icons with the help of another js library called "font-awesome".
-5. Footer : At last I have added a footer with some text and icon.
-6. In order to run the website, clone the complete repository and having all the images and files in one folder just launch "index.html" on chrome.
+5. Footer : At last I have added a footer with some text and icon. 
+- In order to run the website, clone the complete repository and having all the images and files in one folder just launch "index.html" on chrome.
